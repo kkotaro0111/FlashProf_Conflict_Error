@@ -1,0 +1,1 @@
+﻿package{	public class classC extends classA	{		public function classC()		{			super();		}	}}

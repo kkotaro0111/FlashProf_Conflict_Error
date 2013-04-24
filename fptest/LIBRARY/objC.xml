@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="objC" itemID="5177d883-00001bf0" linkageExportForAS="true" linkageClassName="classC" lastModified="1366808836" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="objC">
+      <layers>
+        <DOMLayer name="レイヤー 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shareObj" name="share" centerPoint3DX="13.5" centerPoint3DY="13.5">
+                  <transformationPoint>
+                    <Point x="13.5" y="13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,81 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 537" majorVersion="12" buildNumber="537" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <symbols>
+          <Include href="objB.xml" itemID="5177d894-00001bf1" lastModified="1366809770"/>
+          <Include href="objC.xml" itemID="5177d883-00001bf0" lastModified="1366808836"/>
+          <Include href="shareObj.xml" loadImmediate="false" itemID="5177d39e-000015cd" lastModified="1366807454"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="シーン 1">
+               <layers>
+                    <DOMLayer name="レイヤー 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="objB" centerPoint3DX="161.45" centerPoint3DY="176.95">
+                                             <matrix>
+                                                  <Matrix tx="105.95" ty="133"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="55.5" y="43.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="objC" centerPoint3DX="369.95" centerPoint3DY="183.45">
+                                             <matrix>
+                                                  <Matrix tx="299.95" ty="136"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="70" y="47.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText width="100" height="24" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="92.95" ty="98.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>classB</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="24" bitmapSize="480" face="Times-Roman"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText width="100" height="24" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="282.95" ty="98.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>classC</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="24" bitmapSize="480" face="Times-Roman"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="2022" publishTime="1366809751"/>
+          <PublishItem publishSize="776" publishTime="1366808793"/>
+          <PublishItem publishSize="1136" publishTime="1366808777"/>
+          <PublishItem publishSize="1293" publishTime="1366807541" publishDebug="true"/>
+          <PublishItem publishSize="773" publishTime="1366807529"/>
+          <PublishItem publishSize="1140" publishTime="1366807521"/>
+          <PublishItem publishSize="1119" publishTime="1366807507"/>
+          <PublishItem publishSize="1045" publishTime="1366807496"/>
+          <PublishItem publishSize="767" publishTime="1366807479"/>
+          <PublishItem publishSize="1113" publishTime="1366807466"/>
+          <PublishItem publishSize="1044" publishTime="1366807428"/>
+          <PublishItem publishSize="1212" publishTime="1366807428" publishDebug="true"/>
+          <PublishItem publishSize="1044" publishTime="1366807415"/>
+          <PublishItem publishSize="831" publishTime="1366807366" publishDebug="true"/>
+          <PublishItem publishSize="825" publishTime="1366807344" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

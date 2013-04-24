@@ -1,6 +1,6 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 537" majorVersion="12" buildNumber="537" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <symbols>
-          <Include href="objB.xml" itemID="5177d894-00001bf1" lastModified="1366809770"/>
+          <Include href="objB.xml" itemID="5177d894-00001bf1" lastModified="1366814988"/>
           <Include href="objC.xml" itemID="5177d883-00001bf0" lastModified="1366808836"/>
           <Include href="shareObj.xml" loadImmediate="false" itemID="5177d39e-000015cd" lastModified="1366807454"/>
      </symbols>
@@ -62,6 +62,9 @@
      </timelines>
      <PrinterSettings platform="macintosh"/>
      <publishHistory>
+          <PublishItem publishSize="2409" publishTime="1366814989"/>
+          <PublishItem publishSize="2037" publishTime="1366814978"/>
+          <PublishItem publishSize="2037" publishTime="1366814974"/>
           <PublishItem publishSize="2022" publishTime="1366809751"/>
           <PublishItem publishSize="776" publishTime="1366808793"/>
           <PublishItem publishSize="1136" publishTime="1366808777"/>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="objB" itemID="5177d894-00001bf1" linkageExportForAS="true" linkageBaseClass="classA" linkageClassName="classB" lastModified="1366809770" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="objB" itemID="5177d894-00001bf1" linkageExportForAS="true" linkageBaseClass="WrapClassA" linkageClassName="classB" lastModified="1366814988" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="objB">
       <layers>
